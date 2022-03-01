@@ -10,5 +10,9 @@ Inspired by the teaching of Abhishek EH, Coding DEFT
  
  My findings:
  # CORS
- 
+ Cross Origin Resource Sharing
+ HTTP based header mechanism
+ Traffic cop who is able to communicate between server(over there) and us(over here) which roads can be used for traffic flow. In our case, our localhost:3000.
+
+ The traffic cop also is in charge of making sure only certain resources are shared across different platforms.
  # EXPRESS
